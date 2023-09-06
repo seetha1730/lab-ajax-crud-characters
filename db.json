@@ -1,0 +1,47 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Han Solo",
+      "occupation": "Smuggler",
+      "weapon": "Blaster Pistol",
+      "cartoon": true
+    },
+    {
+      "name": "Minion",
+      "occupation": "bob",
+      "weapon": "banana",
+      "cartoon": true,
+      "id": 4
+    },
+    {
+      "name": "Luke Skywalker",
+      "occupation": "Jedi Knight",
+      "weapon": "Lightsaber",
+      "cartoon": false,
+      "id": 5
+    },
+    {
+      "characterId": "6",
+      "name": "peppa",
+      "occupation": "peppa pig",
+      "weapon": "oink",
+      "cartoon": true,
+      "id": 6
+    },
+    {
+      "name": "Rick",
+      "occupation": "Rick and Morty",
+      "weapon": "monster burger",
+      "cartoon": false,
+      "id": 7
+    },
+    {
+      "name": "Jake The Dog",
+      "occupation": "Finn and Jake",
+      "weapon": "Adventure",
+      "cartoon": true,
+      "id": 8
+    }
+  ]
+}
